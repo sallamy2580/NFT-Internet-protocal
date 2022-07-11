@@ -194,3 +194,5 @@ const dangPrincipal = Principal.fromText("<REPLACE WITH TOKEN CANISTER ID>");
  
  http://localhost:8081/
   
+////////////
+Don't fork this project.
